@@ -51,7 +51,9 @@ Github Flvored Markdown,GFM
 ```
 
  task list
-- [ ] item1
+ 
+- [x] item1
+
 - [ ] item2
 - [ ] item3
 - [ ] task1
