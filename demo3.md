@@ -60,4 +60,4 @@ Github Flvored Markdown,GFM
 
 emoji  
 
-- :underage:
+- :emoji code:
