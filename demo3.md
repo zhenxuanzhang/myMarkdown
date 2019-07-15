@@ -51,7 +51,9 @@ Github Flvored Markdown,GFM
 ```
 
  task list
-- [ ] item1
+ 
+- [x] item1
+
 - [ ] item2
 - [ ] item3
 - [ ] task1
@@ -60,4 +62,8 @@ Github Flvored Markdown,GFM
 
 emoji  
 
+<<<<<<< HEAD
 - :emoji code:
+=======
+- :underage:
+>>>>>>> b5bcb37ad8489f50a7db97b60456545228e18a2a
